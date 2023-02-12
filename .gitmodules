@@ -1,0 +1,3 @@
+[submodule "easy_logger"]
+	path = easy_logger
+	url = https://github.com/hu-submodule-1/easy_logger.git
